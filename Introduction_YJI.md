@@ -13,6 +13,7 @@
 
 - **SKILLS**
   | FRONT-END | React.js, javascripts/html/css |
+  | :-------: | ------------------------------ |
   | BACK-END  | Spring, MySQL                  |
 
 - **EXPERIENCE**
