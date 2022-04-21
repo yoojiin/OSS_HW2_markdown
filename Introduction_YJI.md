@@ -6,4 +6,4 @@
 
 ---
 
-<img src="/main_img.JPG" width="300px" height="450px" title="main_img" alt="YJI"></img>
+<img src="/main_img.JPG" width="50%" height="50%" title="main_img" alt="YJI"></img>
