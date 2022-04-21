@@ -12,8 +12,9 @@
   - 단국대학교 소프트웨어학사 (2023.2 졸업예정)
 
 - **SKILLS**
-  | FRONT-END | React.js, javascripts/html/css |
+  | | |
   | :-------: | ------------------------------ |
+  | FRONT-END | React.js, javascripts/html/css |
   | BACK-END  | Spring, MySQL                  |
 
 - **EXPERIENCE**
